@@ -28,7 +28,7 @@ The queries showcase retrieving data, filtering rows, and sorting results.
 ---
 
 ## 📂 Files Included  
-SQL DDL file: [`library_schema_task3.sql`](library_schema_task3.sql)
+SQL DDL file: [`Task3_LibraryDB.sql`](Task3_LibraryDB.sql)
 
 ---
 
